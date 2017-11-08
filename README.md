@@ -7,10 +7,12 @@ If you find this script helpful toss me a nod on Twitter @bondagejunkies
 
 If you need help, I can provide some minimal support at john@bondagejunkies.com
 
-Install AutoHotKey
-------------------
+Install AutoHotKey & Script Setup
+---------------------------------
 
 AutoHotKey is what runs the script. You can download it for free here: https://autohotkey.com/
+
+Next, Download "pornhub.ahk" from this repository. 
 
 Once you have it installed you'll need to edit the pornhub.ahk file from this repository with your own information. Once you have done that you can double-click the script and AutoHotKey will launch it. You'll see a green and white "H" in your system tray. The default key to run the script is Ctrl-F12. You can test it out by open Notepad and pressing Ctrl-12. 
 
